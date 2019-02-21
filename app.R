@@ -1,0 +1,8 @@
+library(shiny)
+library(ggplot2)
+library(dplyr)
+library(plotly)
+source("analysis.R")
+source("ui.R")
+source("server.R")
+shinyApp(ui = shinyUI(ui), server = shinyServer(server))
