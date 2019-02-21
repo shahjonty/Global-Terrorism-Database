@@ -8,6 +8,7 @@
     - @arsahmed : Arsalan
     - @s92025592025 : Daniel
     - @EverettKey : Everett
+    - @shahjonty: Jonty
 * Topic: Global Terrorism Attack Facts
 
 ## Global Terrorism Attack Facts
@@ -32,3 +33,7 @@ The introduction tab will give a general view about the aspect we are trying to 
 
 * [Global Terrorism Database, kaggle](https://www.kaggle.com/START-UMD/gtd)
 * [GTD Codebook , Global Terrorism Database](https://www.start.umd.edu/gtd/downloads/Codebook.pdf)
+
+
+## Credit:
+Readme was created by @s92025592025: Daniel.
